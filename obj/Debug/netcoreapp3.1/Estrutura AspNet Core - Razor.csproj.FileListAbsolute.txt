@@ -1,0 +1,38 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.Views.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\bin\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.Views.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.RazorAssemblyInfo.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.RazorAssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.TagHelpers.input.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.TagHelpers.output.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.RazorCoreGenerate.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.RazorTargetAssemblyInfo.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.RazorTargetAssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.Views.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\staticwebassets\Estrutura AspNet Core - Razor.StaticWebAssets.Manifest.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\staticwebassets\Estrutura AspNet Core - Razor.StaticWebAssets.xml
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.genruntimeconfig.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Estrutura AspNet Core - Razor.csproj.CopyComplete
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\Estrutura AspNet Core - Razor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Teste.cshtml.g.cs
